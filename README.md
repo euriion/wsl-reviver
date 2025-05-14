@@ -1,2 +1,12 @@
 # wsl-reviver
-WSL reviver
+
+**WSL 재생기 (reviver)**
+
+WSL2를 윈도우에서 실행한 뒤 계속 두면 어떤 방법을 써도 자동으로 종료됩니다. 이 애플리케이션은 주기적으로 wsl 프로세스가 실행되어 있는지 확인해서 실행 안되어 있다면 실행하도록 하는 매우 간단한 앱입니다.
+
+요구사항: .net 8.0이 필요합니다
+
+## 스크린샷
+
+![WSL Reviver 스크린샷](https://i.imgur.com/h2xuBhH.png)
+
