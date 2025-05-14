@@ -1,0 +1,6 @@
+[general]
+interval_minutes = 1
+max_log_lines = 50000
+
+[process]
+wsl_process_name = "wsl.exe" 
