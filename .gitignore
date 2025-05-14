@@ -1,0 +1,72 @@
+.vs
+.exe
+# Visual Studio 생성 파일
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.userprefs
+
+# 빌드 결과물
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Visual Studio 캐시/옵션 디렉토리
+.vs/
+.vscode/
+*_i.c
+*_p.c
+*_h.h
+*.ilk
+*.meta
+*.obj
+*.iobj
+*.pch
+*.pdb
+*.ipdb
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.tlb
+*.tli
+*.tlh
+*.tmp
+*.tmp_proj
+*_wpftmp.csproj
+*.log
+*.vspscc
+*.vssscc
+.builds
+*.pidb
+*.svclog
+*.scc
+
+# NuGet 패키지
+packages/
+*.nupkg
+# NuGet v3의 프로젝트.json 파일
+project.lock.json
+project.assets.json
+*.nuget.props
+*.nuget.targets
+
+# SQL Server 파일
+*.mdf
+*.ldf
+*.ndf
+
+# 기타 파일
+.DS_Store
+Thumbs.db
