@@ -1,5 +1,6 @@
 .vs
 .exe
+config.toml
 # Visual Studio 생성 파일
 *.suo
 *.user
